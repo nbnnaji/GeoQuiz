@@ -1,9 +1,8 @@
-package com.mycodingskills.nnaji_nkechi.geoquiz;
+package com.mycodingskills.nnaji_nkechi.geoquiz.model;
 
 /**
  * Created by Nnaji-MacPro1 on 7/14/17.
  */
-
 /**
  * MODEL OBJECT
  */

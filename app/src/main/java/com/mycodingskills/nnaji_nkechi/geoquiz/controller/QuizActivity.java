@@ -1,4 +1,4 @@
-package com.mycodingskills.nnaji_nkechi.geoquiz;
+package com.mycodingskills.nnaji_nkechi.geoquiz.controller;
 
 /**
  * CONTROLLER / PRESENTER OBJECT
@@ -10,6 +10,9 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import com.mycodingskills.nnaji_nkechi.geoquiz.R;
+
 import static android.widget.Toast.LENGTH_SHORT;
 
 public class QuizActivity extends AppCompatActivity {
