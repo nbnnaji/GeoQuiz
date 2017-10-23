@@ -2,112 +2,130 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_e9a6c57465350e7d5955a66bb9c6bcaab06dcd5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_fbbaff85a30db3008c83838312cc332bcd57af44.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_74f6ae38250cd29bd31bfae7cc55d5cdaf8cb8b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/70068d9a022c15707e7cf70dceac7b30e759e071/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_451b8cd1446bc4890455124ea2b2b74b12707ab5.jar" />
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef4d52773e2dc657a2923f21ba21a51032c9ed4a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_bac478c63e611c921febbcb01a45fc7b99e6d2ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_19db480a7eef3678713889e9f0468a5efb741681.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_4dfb25b45f92ad0c832cd0bebc675d2aefef31d2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_7b02d41b0369023bc4b6dc38f0a57302a5950732.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_f7336277138f87c4f5b8b1ff653523072e11dc6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_2d65a07c6187a89bc3b2c5a93ee578775e7c8db2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_ee1d3058a01ac8fc1ac2728501474634465690d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/fda2deae5c6de10e52b68ec07ff0a97d888cfb81/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_e31ac0b3753b58666f823bc09578c8dfc9ff9443.jar" />
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f421dbee88ea657ff23cd5219bc804769d095a26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/82df3dde918b8071e1602bc65d12e61dfe85b486/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bccb2d519033f7544e46a45c2037c9a0766e7db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/f7040cb27f77a86a31c3fec80987a173fb4db82b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9a956272e7057129c2cf307cd28edfa935f52fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f7336277138f87c4f5b8b1ff653523072e11dc6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/1b9dd57dcce81be23f0887bda9fa12d51b6775d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_860eaa0cabcbddef3e7dbb202d635b868a854740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/3f45a970ec3e9c8f78ed22a68620cb1383c2aae8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_811bf81395b54089a42e02426d7bae8b95c8a977/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c794460e75c32dc93f5c0b6736ffb0f533de373e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea086dca40ce05f744458d7d33f78e64dccf24bb">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6403727052689da55b6bfe5a6efedadcdc76cd9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/3271aa477e1a9a8f0541faa6f86d8b869f4c7a99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a13b1d4e4657279464df2ed8d57c08bed31c1c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/6b93a7cf7b84f863aeb803a3cdd5c48db043b5c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4a36f2cd7a5ef5efa539f2a16934393b26702bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/807f9063dc68d8d792cb48c4fdbf25d5884a1a8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b84ecc4f054d34aa7325f338a1173b20028ae816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/eaef40a275b04d9a8dc647bb95b42f5f681cbc28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a95879999fec4091e6fb83f92a8618db357e3ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nkechi_nnaji/.android/build-cache/6aad4df8f68a9dd431677217ad7fdc0259819d6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nkechi_nnaji/Documents/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e591de9592561eedeafd65210e2791c0f34e1b4/classes.dex" />
     </item>
 
 </items>
